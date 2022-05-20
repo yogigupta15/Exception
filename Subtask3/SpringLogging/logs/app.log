@@ -1,0 +1,4 @@
+2022-05-20 23:48:52,847 INFO com.example.springboot.SpringLoggingApplication [main] Starting SpringLoggingApplication using Java 13.0.10 on INBLRGVE114MXK6 with PID 15420 (C:\Users\251636\Documents\workspace\SpringLogging\target\classes started by 251636 in C:\Users\251636\Documents\workspace\SpringLogging)
+2022-05-20 23:48:52,856 DEBUG com.example.springboot.SpringLoggingApplication [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 23:48:52,857 INFO com.example.springboot.SpringLoggingApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 23:48:56,154 INFO com.example.springboot.SpringLoggingApplication [main] Started SpringLoggingApplication in 3.947 seconds (JVM running for 5.932)
